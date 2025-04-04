@@ -7,7 +7,7 @@ full stack developer
 Hi there! I'm a passionate full-stack developer with expertise in JavaScript frameworks and libraries, particularly in the MERN stack, Next.js, and Nest.js. With strong foundations in Python and Java as well, I enjoy building efficient and scalable solutions across different tech stacks. Always eager to learn and share knowledge, I’m here to collaborate on meaningful projects and contribute to the open-source community. Let's code something amazing together! 🚀
 
 * 🌍  I'm based in tunisia
-* ✉️  You can contact me at [mouhamedboukari20@gmail.com](mailto:mo@1dev.space)
+* ✉️  You can contact me at [mo@1dev.space](mailto:mo@1dev.space)
 * ⚡  Coding is like philosophy: you start with clarity, and end with 1,000 unanswered questions
 
 ### Skills
