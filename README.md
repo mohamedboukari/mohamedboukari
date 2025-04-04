@@ -1,12 +1,13 @@
-Hi 👋! My name is Mohamed Boukari
-=======================================================================================================================================
+# Hi 👋! My name is Mohamed Boukari
 
-full stack developer
---------------------
+## full stack developer
 
-Hi there! I'm a passionate full-stack developer with expertise in JavaScript frameworks and libraries, particularly in the MERN stack, Next.js, and Nest.js. With strong foundations in Python and Java as well, I enjoy building efficient and scalable solutions across different tech stacks. Always eager to learn and share knowledge, I’m here to collaborate on meaningful projects and contribute to the open-source community. Let's code something amazing together! 🚀
+Hi there! I'm a passionate full-stack developer with expertise in JavaScript frameworks and libraries, particularly in the MERN stack, Next.js, and Nest.js. With strong foundations in Python and Java as well, I enjoy building efficient and scalable solutions across different tech stacks. Always eager to learn and share knowledge, I'm here to collaborate on meaningful projects and contribute to the open-source community. Let's code something amazing together! 🚀
 
-* 🌍  I'm based in tunisia
+* 🌍  I'm based in Tunisia
+* 🎓  I studied at [Higher Institute of Information and Communication Technologies](http://www.istic.rnu.tn/)
+* 💼  I have experience in web application development since 2020
+* 🚀  Some platforms I've built include [3iyeda](https://www.3iyeda.com/) and [Drippy3D](https://app.drippy3d.com) among others
 * ✉️  You can contact me at [mo@1dev.space](mailto:mo@1dev.space)
 * ⚡  Coding is like philosophy: you start with clarity, and end with 1,000 unanswered questions
 
@@ -114,4 +115,3 @@ Hi there! I'm a passionate full-stack developer with expertise in JavaScript fra
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/mouhamedboukari" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/mohamedboukari" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/mouhamed-boukari-471745208" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@mouhamedboukari20" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/BoukariHammma" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-
