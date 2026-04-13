@@ -114,10 +114,18 @@ Hi there! I'm a passionate full-stack developer with expertise in JavaScript fra
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=mohamedboukari&theme=dark&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedboukari&theme=dark&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedboukari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats-seven-bay-97.vercel.app/api?username=mohamedboukari&theme=dark&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedboukari&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats-seven-bay-97.vercel.app/api/top-langs/?username=mohamedboukari&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 📌 Pinned Repos
+
+[![bunmail](https://github-readme-stats-seven-bay-97.vercel.app/api/pin/?username=mohamedboukari&repo=bunmail&theme=dark)](https://github.com/mohamedboukari/bunmail)
+[![awesome-bun](https://github-readme-stats-seven-bay-97.vercel.app/api/pin/?username=mohamedboukari&repo=awesome-bun&theme=dark)](https://github.com/mohamedboukari/awesome-bun)
+[![node-bun-framework-bench](https://github-readme-stats-seven-bay-97.vercel.app/api/pin/?username=mohamedboukari&repo=node-bun-framework-bench&theme=dark)](https://github.com/mohamedboukari/node-bun-framework-bench)
+[![yt-downloader](https://github-readme-stats-seven-bay-97.vercel.app/api/pin/?username=mohamedboukari&repo=yt-downloader&theme=dark)](https://github.com/mohamedboukari/yt-downloader)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohamedboukari&theme=radical&no-frame=false&no-bg=true&margin-w=4)
