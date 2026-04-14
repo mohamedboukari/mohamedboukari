@@ -132,6 +132,32 @@ Hi there! I'm a passionate full-stack developer with expertise in JavaScript fra
   <a href="https://github.com/mohamedboukari/yt-downloader"><img src="https://github-readme-stats-seven-bay-97.vercel.app/api/pin/?username=mohamedboukari&repo=yt-downloader&theme=dark&hide_border=true" width="49%" /></a>
 </div>
 
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph-murex.vercel.app/graph?username=mohamedboukari&theme=react-dark&hide_border=true" alt="Activity Graph" width="95%" />
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedboukari/mohamedboukari/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedboukari/mohamedboukari/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/mohamedboukari/mohamedboukari/output/github-snake.svg" width="95%" />
+  </picture>
+</div>
+
+## 📊 Summary Cards
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohamedboukari/mohamedboukari/summary-cards/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" width="95%" />
+  <img src="https://raw.githubusercontent.com/mohamedboukari/mohamedboukari/summary-cards/profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/mohamedboukari/mohamedboukari/summary-cards/profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/mohamedboukari/mohamedboukari/summary-cards/profile-summary-card-output/radical/3-stats.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/mohamedboukari/mohamedboukari/summary-cards/profile-summary-card-output/radical/4-productive-time.svg" width="49%" />
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy-teal-one.vercel.app/?username=mohamedboukari&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
