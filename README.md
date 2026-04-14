@@ -133,7 +133,7 @@ Hi there! I'm a passionate full-stack developer with expertise in JavaScript fra
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohamedboukari&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy-teal-one.vercel.app/?username=mohamedboukari&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
