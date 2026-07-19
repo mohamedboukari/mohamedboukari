@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/mohamedboukari/mohamedboukari/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
-```
-
-    

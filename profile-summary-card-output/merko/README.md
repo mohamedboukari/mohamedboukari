@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/mohamedboukari/mohamedboukari/main/profile-summary-card-output/merko/2-most-commit-language.svg)
-```
-
-    
